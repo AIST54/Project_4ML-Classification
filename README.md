@@ -26,7 +26,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/SkillfactoryDS/Project2
+git clone https://github.com/AIST54/Project_4ML-Classification
 ```
 
 ## Использование
